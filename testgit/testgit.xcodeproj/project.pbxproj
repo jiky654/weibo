@@ -15,6 +15,7 @@
 		7D1A8469212832BF007CB2EB /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 7D1A8468212832BF007CB2EB /* main.m */; };
 		7D1A8473212832BF007CB2EB /* testgitTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 7D1A8472212832BF007CB2EB /* testgitTests.m */; };
 		7D1A847E212832BF007CB2EB /* testgitUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = 7D1A847D212832BF007CB2EB /* testgitUITests.m */; };
+		7D1A848D21283486007CB2EB /* car.m in Sources */ = {isa = PBXBuildFile; fileRef = 7D1A848C21283486007CB2EB /* car.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +52,8 @@
 		7D1A8479212832BF007CB2EB /* testgitUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = testgitUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		7D1A847D212832BF007CB2EB /* testgitUITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = testgitUITests.m; sourceTree = "<group>"; };
 		7D1A847F212832BF007CB2EB /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		7D1A848B21283486007CB2EB /* car.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = car.h; sourceTree = "<group>"; };
+		7D1A848C21283486007CB2EB /* car.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = car.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -110,6 +113,8 @@
 				7D1A8464212832BF007CB2EB /* LaunchScreen.storyboard */,
 				7D1A8467212832BF007CB2EB /* Info.plist */,
 				7D1A8468212832BF007CB2EB /* main.m */,
+				7D1A848B21283486007CB2EB /* car.h */,
+				7D1A848C21283486007CB2EB /* car.m */,
 			);
 			path = testgit;
 			sourceTree = "<group>";
@@ -267,6 +272,7 @@
 			files = (
 				7D1A845E212832BF007CB2EB /* ViewController.m in Sources */,
 				7D1A8469212832BF007CB2EB /* main.m in Sources */,
+				7D1A848D21283486007CB2EB /* car.m in Sources */,
 				7D1A845B212832BF007CB2EB /* AppDelegate.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
