@@ -1,4 +1,4 @@
-//
+i//
 //  ViewController.m
 //  testgit
 //
@@ -17,7 +17,7 @@
 - (void)viewDidLoad {
     [super viewDidLoad];
     NSLog(@"测试,我是github2的");
-    // Do any additional setup after loading the view, typically from a nib.
+   // Do any additional setup after loading the view, typically from a nib.
 }
 
 
