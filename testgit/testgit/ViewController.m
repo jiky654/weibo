@@ -1,4 +1,4 @@
-//
+i//
 //  ViewController.m
 //  testgit
 //
@@ -16,7 +16,7 @@
 
 - (void)viewDidLoad {
     [super viewDidLoad];
-    NSLog(@"测试, 我是master 0001");
+    NSLog(@"测试, 我是合并后的master 0001");
     // Do any additional setup after loading the view, typically from a nib.
 }
 
